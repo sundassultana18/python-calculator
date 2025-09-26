@@ -65,3 +65,16 @@ while True:
         print('Please enter correct input among these 1/2/3/4/n')
 
 ```
+## My Interpretation
+
+**What the program does (2-3 lines):**
+-_
+
+**Functions (inputs → outputs):**
+-add(x,y)→ 
+-subtract(x,y)→ 
+-multiply(x,y)→
+-divide(x,y)→
+
+**Control flow (2-4 lines):**
+-
