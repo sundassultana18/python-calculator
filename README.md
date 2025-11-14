@@ -69,7 +69,7 @@ while True:
 
 **What the program does (2-3 lines):**
 -_
-
+this is a python calculator that performs basic arithmetic operations like subtraction, multiplication, addition, division etc.
 **Functions (inputs → outputs):**
 -add(x,y)→ 
 -subtract(x,y)→ 
